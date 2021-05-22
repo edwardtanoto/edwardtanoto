@@ -14,8 +14,7 @@
 
 - 💻 Student at University of Nottingham Ningbo China
 - 🍀 Currently learning fullstack technologies
-- 💎 Started my Creative Tech Agency to build web and apps for clients
-- 🚀 Working in Indonesia's fast growing tech-startup, kotakode.com
+- 💎 Started a software studio verst.io
 - 🏆 Runner-up of Garuda Hacks 2020, A Global Hackathon based in California, US
 - 👯 Any questions?, Hit me up!
 
