@@ -12,9 +12,8 @@
   
 </p>
 
-- 💻 Student at University of Nottingham Ningbo China
-- 🍀 Currently learning fullstack technologies
-- 💎 Started a software studio verst.io
+- 💻 Taking gap year from UNNC
+- 🍀 Currently building GPT-3-based apps
 - 🏆 Runner-up of Garuda Hacks 2020, A Global Hackathon based in California, US
 - 👯 Any questions?, Hit me up!
 
