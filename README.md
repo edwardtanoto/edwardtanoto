@@ -12,10 +12,10 @@
   
 </p>
 
-- 💻 Taking gap year from UNNC
-- 🍀 Currently building GPT-3-based apps
-- 🏆 Runner-up of Garuda Hacks 2020, A Global Hackathon based in California, US
-- 👯 Any questions?, Hit me up!
+💻 Taking gap year from UNNC
+🍀 Currently building GPT-3-based apps
+🏆 Runner-up of Garuda Hacks 2020, A Global Hackathon based in California, US
+👯 Any questions?, Hit me up!
 
 ## Stats Right Now!
 
