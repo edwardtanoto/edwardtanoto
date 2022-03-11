@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardtanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" /> </p>
 
-👨‍💻 Know more about me at [https://edtn.xyz](https://edtn.xyz) or [https://linkedin.com/in/edwardtanoto](https://linkedin.com/in/edwardtanoto)
+👨‍💻 Know more about me at [https://edtn.xyz](https://edtn.xyz) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
