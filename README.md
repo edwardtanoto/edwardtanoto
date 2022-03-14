@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardtanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" /> </p>
 
-👨‍💻 Personal blog @ [edtn.xyz](https://edtn.xyz)
-🚀 Creating @ [Verst, Inc.](https://verst.io)
-👾 Tech @ [Pinnacle](https://pinnacle.us.org)
+👨‍💻 Personal blog @ [edtn.xyz](https://edtn.xyz) <br/>
+🚀 Creating @ [Verst, Inc.](https://verst.io)<br/>
+👾 Tech @ [Pinnacle](https://pinnacle.us.org)<br/>
 🥬 Engineering @ [Sayurbox](https://www.linkedin.com/company/sayurboxofficial/)
 
 <h3 align="left">Connect with me:</h3>
