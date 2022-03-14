@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">A passionate software engineer from Jakarta</h3>
+<h3>Computer Science @UNNC and Software Engineer based in Jakarta</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardtanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" /> </p>
 
