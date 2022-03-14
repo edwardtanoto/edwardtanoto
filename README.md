@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardtanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" /> </p>
 
-👨‍💻 Know more about me at [https://edtn.xyz](https://edtn.xyz) 
+👨‍💻 Know more about me @ [https://edtn.xyz](edtn.xyz)
+🚀 Creating @ [https://verst.io](Verst, Inc.)
+👾 Tech @ [https://pinnacle.us.org](Pinnacle)
+🥬 Engineering @ [https://www.linkedin.com/company/sayurboxofficial/](Sayurbox)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
