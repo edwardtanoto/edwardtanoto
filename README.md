@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardtanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" /> </p>
 
 🥬 Engineering @ [Sayurbox](https://www.linkedin.com/company/sayurboxofficial/)<br/>
-🚀 Started [Verst, Inc.](https://verst.io)<br/>
-👾 The only 🇮🇩 organizer @ [Pinnacle](https://pinnacle.us.org)<br/>
-🎮 Previously Organized [Garuda Hacks](https://garudahacks.com)<br/>
-✨ Previously Founded [Devspace](https://verst.notion.site/Closing-Devspace-61a8b88c4045498aacb32e6c6a302319)<br/>
+🚀 Building [Verst, Inc.](https://verst.io)<br/>
+👾 Tech @ [Pinnacle](https://pinnacle.us.org)<br/>
+🎮 Previously [Garuda Hacks](https://garudahacks.com)<br/>
+✨ Previously [Devspace](https://verst.notion.site/Closing-Devspace-61a8b88c4045498aacb32e6c6a302319)<br/>
 🗞 Featured @ [The Jakarta Post](https://www.thejakartapost.com/life/2020/08/31/online-global-hackathon-aims-to-tackle-local-issues.html) 
 
 
