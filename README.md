@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardtanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" /> </p>
 
-🥬 Engineering @ [Sayurbox](https://www.linkedin.com/company/sayurboxofficial/)<br/>
+
+🚚 Engineering @ [Kargo](https://www.kargo.tech)<br/>
+🥬 Formerly Engineering @ [Sayurbox](https://www.linkedin.com/company/sayurboxofficial/)<br/>
 🚀 Building [Verst, Inc.](https://verst.io)<br/>
 👾 Tech @ [Pinnacle](https://pinnacle.us.org)<br/>
 🎮 Previously [Garuda Hacks](https://garudahacks.com)<br/>
