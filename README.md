@@ -4,8 +4,10 @@
 
 🚀 Building [Grammable, Inc.](https://grammable.ai), funded by Pioneer<br/>
 🤓 Novel Hybrid Model [XLSTM-Transformer Hybrid Model for Stock Market Prediction](https://github.com/edwardtanoto/xlstm-transformer)<br/>
-✨ Building [Vibe AI](https://startvibeai.com)<br/>
-🎶 Tiktok [1800 followers](https://vt.tiktok.com/ZSAmeoCC7/) (Posted only twice)
+✨ Building my current best thing [Vibe AI](https://startvibeai.com)<br/>
+🎶 Tiktok [1800 followers](https://vt.tiktok.com/ZSAmeoCC7/) (Posted only twice)<br/>
+☠️ Shopee Competitive Analysis [Diskover](https://diskover.id) (Discontinued because im out of touch with Indo's sellers)<br/>
+☠️ Turn tiktok/ig doomscrolling into trip planning! [Nextgentravel](https://next-gen-travel.vercel.app) (Discontinued because consumer apps is expensive)
 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=edwardtanoto&show_icons=true&theme=merko&count_private=true" />
 <img align="center" height="150px"/>
