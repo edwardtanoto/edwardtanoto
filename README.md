@@ -5,7 +5,6 @@
 🚀 Building [Grammable, Inc.](https://grammable.ai), funded by Pioneer<br/>
 🤓 Novel Hybrid Model [XLSTM-Transformer Hybrid Model for Stock Market Prediction](https://github.com/edwardtanoto/xlstm-transformer)<br/>
 ✨ Building my current best thing [Vibe AI](https://startvibeai.com)<br/>
-🎶 Tiktok [1800 followers](https://vt.tiktok.com/ZSAmeoCC7/) (Posted only twice)<br/>
 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=edwardtanoto&show_icons=true&theme=merko&count_private=true" />
 <img align="center" height="150px"/>
