@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I build small, sharp systems for product, research, and creative work.
+I enjoy exploring intersection of AI automation and visual design
 
 Most of my current work sits at the edge of:
 
