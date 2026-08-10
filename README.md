@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.edtn.xyz/stats">
-    <img src="./assets/profile-card.svg" alt="Live Claude and Codex usage stats from Edward Tanoto's machine" width="900" />
-  </a>
-</p>
-
 I build small, sharp systems for product, research, and creative work.
 
 Most of my current work sits at the edge of:
