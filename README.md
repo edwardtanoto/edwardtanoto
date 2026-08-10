@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.edtn.xyz/stats">
-    <img src="https://www.edtn.xyz/api/profile-card.svg" alt="Live Claude and Codex usage stats from Edward Tanoto's machine" width="900" />
+    <img src="./assets/profile-card.svg" alt="Live Claude and Codex usage stats from Edward Tanoto's machine" width="900" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ Most of my current work sits at the edge of:
 - product systems that turn messy work into calm, repeatable loops
 - visual and written artifacts that make technical things easier to understand
 
-The card above is live from my machine. It is generated from local Claude and Codex usage, written by a LaunchAgent into a tiny stats table, then rendered through [edtn.xyz/stats](https://www.edtn.xyz/stats).
+The card above is refreshed by GitHub Actions from a token-protected endpoint. It is generated from local Claude and Codex usage, written by a LaunchAgent into a tiny stats table, then rendered through [edtn.xyz/stats](https://www.edtn.xyz/stats).
 
 ## Current Surface
 

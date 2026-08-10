@@ -1,0 +1,38 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch token-protected card
+        env:
+          PROFILE_CARD_TOKEN: ${{ secrets.PROFILE_CARD_TOKEN }}
+        run: |
+          test -n "$PROFILE_CARD_TOKEN"
+          mkdir -p assets
+          curl --fail --silent --show-error --location \
+            --header "Authorization: Bearer ${PROFILE_CARD_TOKEN}" \
+            --output assets/profile-card.svg \
+            "https://www.edtn.xyz/api/profile-card.svg"
+
+      - name: Commit updated card
+        run: |
+          if git diff --quiet -- assets/profile-card.svg; then
+            echo "Profile card is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-card.svg
+          git commit -m "Update live profile card"
+          git push
