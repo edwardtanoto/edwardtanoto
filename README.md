@@ -1,12 +1,33 @@
-<h1>Hi 👋, I'm Edward</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwardtanoto&label=Profile%20views&color=0e75b6&style=flat" alt="edwardtanoto" /> </p>
-
-🚀 Building [Grammable, Inc.](https://grammable.ai), funded by Pioneer<br/>
-🤓 Novel Hybrid Model [XLSTM-Transformer Hybrid Model for Stock Market Prediction](https://github.com/edwardtanoto/xlstm-transformer)<br/>
-✨ One-click Openclaw deployment [Moltnow](https://moltnow.app)<br/>
-
-Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/edwardtanoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwardtanoto" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.edtn.xyz/stats">
+    <img src="https://www.edtn.xyz/api/profile-card.svg" alt="Live Claude and Codex usage stats from Edward Tanoto's machine" width="900" />
+  </a>
 </p>
+
+## Edward Tanoto
+
+I build small, sharp systems for product, research, and creative work.
+
+Most of my current work sits at the edge of:
+
+- agentic workflows that make real tools feel closer to thought
+- applied AI interfaces with taste, memory, and operational rigor
+- product systems that turn messy work into calm, repeatable loops
+- visual and written artifacts that make technical things easier to understand
+
+The card above is live from my machine. It is generated from local Claude and Codex usage, written by a LaunchAgent into a tiny stats table, then rendered through [edtn.xyz/stats](https://www.edtn.xyz/stats).
+
+## Current Surface
+
+- Website: [edtn.xyz](https://www.edtn.xyz)
+- Living stats: [edtn.xyz/stats](https://www.edtn.xyz/stats)
+- Building: [Grammable](https://grammable.ai)
+- Research: [XLSTM-Transformer Hybrid Model for Stock Market Prediction](https://github.com/edwardtanoto/xlstm-transformer)
+- LinkedIn: [edwardtanoto](https://linkedin.com/in/edwardtanoto)
+
+## Recent Themes
+
+- making agent loops observable instead of mystical
+- turning personal workflows into durable little systems
+- designing interfaces that are quiet, fast, and emotionally legible
+- using code as both infrastructure and sketchbook
