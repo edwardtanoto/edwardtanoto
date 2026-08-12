@@ -5,6 +5,7 @@ repo_root="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$repo_root"
 
 env_file="/Users/edwardtanoto/Documents/edtnxyz/.env"
+site_root="/Users/edwardtanoto/Documents/edtnxyz"
 
 load_profile_card_token() {
   if [[ -n "${PROFILE_CARD_TOKEN:-}" ]]; then
@@ -30,6 +31,23 @@ load_profile_card_token() {
   export PROFILE_CARD_TOKEN="$token"
 }
 
+render_from_local_site() {
+  if [[ ! -d "$site_root" ]]; then
+    echo "Local site repo is missing at $site_root."
+    return 1
+  fi
+
+  (
+    cd "$site_root"
+    set -a
+    if [[ -f .env ]]; then
+      source .env
+    fi
+    set +a
+    npx tsx -e 'import { GET } from "./src/app/api/profile-card.svg/route"; void (async () => { const headers = new Headers(); if (process.env.PROFILE_CARD_TOKEN) headers.set("authorization", `Bearer ${process.env.PROFILE_CARD_TOKEN}`); const res = await GET(new Request("http://local/profile-card.svg", { headers })); if (!res.ok) throw new Error(`render failed ${res.status}`); process.stdout.write(await res.text()); })();'
+  )
+}
+
 if [[ -n "$(git status --porcelain)" ]]; then
   echo "Working tree has uncommitted changes; refusing to refresh profile card."
   exit 1
@@ -38,21 +56,20 @@ fi
 git fetch origin main
 git merge --ff-only origin/main
 
-load_profile_card_token
-
-if [[ -z "${PROFILE_CARD_TOKEN:-}" ]]; then
-  echo "PROFILE_CARD_TOKEN is not set. Add it to the environment or $env_file."
-  exit 1
-fi
-
 mkdir -p assets
 tmp_file="$(mktemp)"
 trap 'rm -f "$tmp_file"' EXIT
 
-curl --fail --silent --show-error --location \
-  --header "Authorization: Bearer ${PROFILE_CARD_TOKEN}" \
-  --output "$tmp_file" \
-  "https://www.edtn.xyz/api/profile-card.svg"
+load_profile_card_token
+
+if [[ -n "${PROFILE_CARD_TOKEN:-}" ]]; then
+  curl --fail --silent --show-error --location \
+    --header "Authorization: Bearer ${PROFILE_CARD_TOKEN}" \
+    --output "$tmp_file" \
+    "https://www.edtn.xyz/api/profile-card.svg"
+else
+  render_from_local_site > "$tmp_file"
+fi
 
 if ! grep -q "<svg" "$tmp_file"; then
   echo "Downloaded profile card did not look like SVG."
